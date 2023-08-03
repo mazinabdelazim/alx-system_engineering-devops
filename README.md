@@ -1,2 +1,2 @@
-shell basics reademe 
+#!/bin/bash
 basics
